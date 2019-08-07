@@ -1,0 +1,36 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="nombre" type="xs:string"/>
+  <xs:element name="Pregunta" type="xs:string"/>
+  <xs:element name="eleccion1" type="xs:string"/>
+  <xs:element name="eleccion2" type="xs:string"/>
+  <xs:element name="eleccion3" type="xs:string"/>
+  <xs:element name="eleccion4" type="xs:string"/>
+  <xs:element name="respuesta1" type="xs:string"/>
+  <xs:element name="respuesta2" type="xs:string"/>
+  <xs:element name="respuesta3" type="xs:string"/>
+  <xs:element name="respuesta4" type="xs:string"/>
+  <xs:element name="sala">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="nombre"/>
+        <xs:element ref="Pregunta"/>
+        <xs:element ref="eleccion1"/>
+        <xs:element ref="eleccion2"/>
+        <xs:element ref="eleccion3"/>
+        <xs:element ref="eleccion4"/>
+        <xs:element ref="respuesta1"/>
+        <xs:element ref="respuesta2"/>
+        <xs:element ref="respuesta3"/>
+        <xs:element ref="respuesta4"/>
+      </xs:sequence>
+      <xs:attribute type="xs:byte" name="id" use="optional"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Dungeons">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="sala" maxOccurs="unbounded" minOccurs="0"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

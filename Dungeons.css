@@ -1,0 +1,198 @@
+Body {
+	text-align: center;
+	background-image: url("img/dungeon.jpg");
+	position: fixed;
+	height: 100%;
+	width: 100%;
+	font-family: Courier New;	
+	margin-top: -8px;
+
+
+    	}
+	
+	
+
+
+
+	.pantalla {
+	background-color: #663300;
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	color: #ffffff;
+	font-size: 12px;
+	font-weight: 400;
+	text-align: center;
+	overflow: hidden;
+	margin-left:20%;
+	margin right:50px;
+	max-width:75%;
+	margin-top:1%;
+	padding: 20px;
+	border-radius: 35px 50px 35px 50px;
+	-moz-border-radius: 35px 0px 35px 0px;
+	-webkit-border-radius: 35px 0px 35px 0px;
+	border: 2px solid #ffff00;
+	}
+
+	h1 {
+	
+	background-color: grey;
+	
+	color: white;
+	font-family: Comic sans;
+
+	}
+	h3 {
+	
+	background-color: grey;
+	
+	color: white;
+	font-family: Comic sans;
+
+	}
+	@media (max-width: 600px) {
+	.map {
+	display: none;
+	
+	}
+	.logo {
+		display:none;
+	}
+	
+	.pantalla {
+	background-color: #663300;
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	color: #ffffff;
+	font-size: 12px;
+	font-weight: 400;
+	text-align: center;
+	overflow: hidden;
+	margin-left: -100px;
+	margin-top:50px;
+	border-radius: 35px 50px 35px 50px;
+	-moz-border-radius: 35px 0px 35px 0px;
+	-webkit-border-radius: 35px 0px 35px 0px;
+	border: 2px solid #ffff00;
+	
+	}
+	}
+	@media (max-width: 1200px) {
+	.map {
+	background-color: #663300;
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	color: #ffffff;
+	font-size: 12px;
+	font-weight: 400;
+	text-align: center;
+	overflow: hidden;
+	max-width:15%;
+	padding: 20px;
+	border-radius: 35px 50px 35px 50px;
+	-moz-border-radius: 35px 0px 35px 0px;
+	-webkit-border-radius: 35px 0px 35px 0px;
+	border: 2px solid #ffff00;
+	margin-top: -20%;
+	
+	}
+	.logo {
+		display:none;
+	}
+	
+	.pantalla {
+	background-color: #663300;
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	color: #ffffff;
+	font-size: 12px;
+	font-weight: 400;
+	text-align: center;
+	overflow: hidden;
+	margin-left:20%;
+	margin right:50px;
+	max-width:75%;
+	margin-top:1%;
+	padding: 20px;
+	border-radius: 35px 50px 35px 50px;
+	-moz-border-radius: 35px 0px 35px 0px;
+	-webkit-border-radius: 35px 0px 35px 0px;
+	border: 2px solid #ffff00;
+	
+	}
+	}
+	.logo {
+		margin-top: 1%;
+	}
+	
+	.map {
+	background-color: #663300;
+	display:in-line;
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	color: #ffffff;
+	font-size: 12px;
+	font-weight: 400;
+	text-align: center;
+	overflow: hidden;
+	max-width:15%;
+	margin-top:100px;
+	padding: 20px;
+	border-radius: 35px 50px 35px 50px;
+	-moz-border-radius: 35px 0px 35px 0px;
+	-webkit-border-radius: 35px 0px 35px 0px;
+	border: 2px solid #ffff00;
+	margin-top: -15%;
+	}
+	
+
+#sala0{
+	color:#663300;
+}	
+#sala1{
+	color:#663300;
+}
+
+#sala2{
+	color:#663300;
+}
+#sala3{
+	color:#663300;
+}
+#sala4{
+	color:#663300;
+}
+#sala5{
+	color:#663300;
+}
+#sala6{
+	color:#663300;
+}
+#sala7{
+	color:#663300;
+}
+#sala8{
+	color:#663300;
+}
+#sala9{
+	color:#663300;
+}
+#sala10{
+	color:#663300;
+}
+#sala11{
+	color:#663300;
+}
+#sala12{
+	color:#663300;
+}
+#sala13{
+	color:#663300;
+}
+#sala14{
+	color:#663300;
+}
+#sala15{
+	color:#663300;
+}
+#sala16{
+	color:#663300;
+}
+#salaAbierta{
+	
+}

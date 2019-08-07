@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Dungeons>
+
+<sala id="0">
+<nombre>Entrada</nombre>
+<Pregunta> Despues de un largo viaje llegas a la mazmorra. La puerta chirria al abrirse y un fuerte olor a cerrado invade el ambiente. ¿Que haces?</Pregunta>
+<eleccion1 correcto="true">Avanzas sin ningun temor</eleccion1>
+<eleccion2 correcto="true">Recuerdas que tienes la lavadora puesta y decides volver</eleccion2>
+<eleccion3 correcto="true">Limpias un poco la habitacion y invitas a la peña a una fiesta de inauguracion</eleccion3>
+<eleccion4 correcto="true">enciendes una antorcha y sigues</eleccion4>
+<respuesta1> Avanzas como brabo guerrero en la habitación hasta que tropiezas con algo, caes, el estruendo avisa de tu llegada a cualquier cosa que se encuentre dentro. Decides encender una antorcha y seguir avanzando</respuesta1>
+<respuesta2> Al girarte  la puerta se cierra con fuerza y no puedes abrirla. Enciendes una antorcha mientras piensas en esos calzoncillos que tanto te gustaban.</respuesta2>
+<respuesta3>Invitas a todo el mundo  y recuerdas que la mazmorra esta a tomar por culo de todo y que se tendran que quedar a dormir. Coges una antorcha y te decides a explorar la mazmorra.</respuesta3>
+<respuesta4> La antorcha crepita por la habitación, el polvo te hace pensar en la lavadora que pusiste. Ves una raiz medio levantada en el suelo. por poco te caes... </respuesta4>
+</sala>
+<sala id="1">
+<nombre>El festin de comida</nombre>
+<Pregunta>Al entrar encuentras tres mesas llenas de comida y un hombre vestido de cocinero. Te dice que elijas una mesa. La azul esta llena de frutas, la roja de postres y la verde contiene un gran caldero humeante. ¿cual eliges?</Pregunta>
+<eleccion1 correcto="true">La azul</eleccion1>
+<eleccion2>La roja</eleccion2>
+<eleccion3 correcto="true">La verde</eleccion3>
+<eleccion4 correcto="true">No tienes hambre, le agradeces al cocinero su trabajo y sigues.</eleccion4>
+<respuesta1>Tanta fruta te pone como un toro, pero el cocinero no le gusta porque no es nada que el haya hecho. Triste te deja partir...</respuesta1>
+<respuesta2>pasteles, muffins y coulants rellenan  tu estomago. Estas tan agustito que te olvidas de todo y te duermes. Despiertas hecho un flan... literalmente.</respuesta2>
+<respuesta3>vas comiendo de el caldero  y esta delicioso. Agradeces al cocinero su trabajo el cual te da una advertencia: "no muevas tus caderas joven "</respuesta3>
+<respuesta4>El cocinero asiente y te deja partir</respuesta4>
+</sala>
+
+<sala id="2">
+<nombre>La cancion trepidante</nombre>
+<Pregunta>La puerta vibra con un ritmo trepidante. Al entrar irrumpe en tu cabeza el ritmo ragatanga de Daddy Yankee y demas amantes de la musica clasica.  En el fondo divisas lo que parecen personas bailando. ¿que haces?</Pregunta>
+<eleccion1>Te pones a bailar con ellos</eleccion1>
+<eleccion2 correcto="true">Exclamas"Pardiez", y avanzas tarareando la septima sinfonia de Bethoven</eleccion2>
+<eleccion3 correcto="true">Te acercas al dj y le pides un poco de dubstep</eleccion3>
+<eleccion4 correcto="true">Te pones a dar cachetazos a todos</eleccion4>
+<respuesta1>Mientras te acercas a una morena to resholuna te das cuenta de que es un zombie. Al intentar escaparte ves que no puedes parar de bailar. Te resignas mientras tus neuronas se escapan.</respuesta1>
+<respuesta2>Esta chusma no es merecedora de tu persona. Avanzas sin problemas</respuesta2>
+<respuesta3>El dj que no conoce lo que es accede a poner bangarang. La  musica hace explotar la cabeza de los bailarines y de el  dj. Te pones tus gafas de sol y sigues.</respuesta3>
+<respuesta4>Entre cachetazo y cachetazo encuentras que esta gente  y tu teneis mucho en comun. Decidis montar un partido de ultraderechas al terminar la aventura. Sigues hacia el norte mientras realizas el saludo romano</respuesta4>
+</sala>
+<sala id="3">
+<nombre>404</nombre>
+<Pregunta>En la habitacion encuentras un pc de sobremesa con una pantalla donde claramente pone Error num 404. ¿ que haces?</Pregunta>
+<eleccion1 correcto="true">Te sientas y intentas arreglar el problema</eleccion1>
+<eleccion2 correcto="true">Llamas a Robaphone que la linea no va</eleccion2>
+<eleccion3>Pasas de todo y sigues</eleccion3>
+<eleccion4 correcto="true">Llamas a tu colega informatico a ver si puede hacer algo</eleccion4>
+<respuesta1>Tus conocimientos de html y Js no son suficientes pero encuentras un post en StackOverClon  que te lo arregla. Sigues adelante</respuesta1>
+<respuesta2>Despues de un par de horas y papeleo consigues que te hagan un descuento en la linea. El pc super contento por tu trabajo te deja passar.</respuesta2>
+<respuesta3>Te diriges a la puerta y no puedes abrirla. Te sale un mensaje " Error 405 key not found". El ordenador se arregla. mueres despues de 48 horas seguidas mirando pornhub</respuesta3>
+<respuesta4>Tu colega que trabaja en la nasa no lo entiende, pero te configura el pc de puta madre y encuentra un archivo llave.key que te sirve para seguir. El se queda alli imputando tokens.</respuesta4>
+</sala>
+<sala id="4">
+<nombre>La vieja adivinanza</nombre>
+<Pregunta> Encuentras en la sala a una mujer sentada con los ojos tapados. Te presenta un acertijo: "¿Porque la torre de Pisa esta inclinada?"</Pregunta>
+<eleccion1 correcto="true">Por el terreno</eleccion1>
+<eleccion2 correcto="true">ehm ..por un fallo de contruccion?</eleccion2>
+<eleccion3 correcto="true">porque tuvo mas reflejos que las torres gemelas</eleccion3>
+<eleccion4> Pasas del acertijo</eleccion4>
+<respuesta1>Resulta que la vieja es Gollum disfrazado y no entiende nada. Pasas mientras el piensa en las teorias que le has expuesto</respuesta1>
+<respuesta2>La vieja que en realidad es Gollum, ve que no tienes ni puta idea. Por pena  te deja ir.</respuesta2>
+<respuesta3>Del vestido de la vieja sale Gollum. Se rie un monton gritando " Siiiiiiii". Te acompaña hasta la puerta que lleva a la sala 6.</respuesta3>
+<respuesta4>La vieja se enfada y Gollum emerge de ella. Mueres  como una patata, Boiled, mashed, sticked and straw.</respuesta4>
+</sala>
+<sala id="5">
+<nombre>El discipulo del gran Kuthulu</nombre>
+<Pregunta>Al abrir, tentaculos diversos aparecen por todos lados y te agarran.  Un hombre medio pulpo medio nerd aparece, con una túnica diciendote que vas a ser el ultimo sacrifico para el gran Cuthulu.</Pregunta>
+<eleccion1>Coges tu espada y atacas</eleccion1>
+<eleccion2 correcto="true">ries, ya que el nombre de cuthulu te recuerda a Cthun</eleccion2>
+<eleccion3 correcto="true">Pides a Lovecraft su bendicion</eleccion3>
+<eleccion4 correcto="true">Silencias al esbirro enemigo</eleccion4>
+<respuesta1>Trozos de tentaculos quedan esparcidos por el suelo, pero vienen mas y mas. De pronto se te ocurre abrir un puesto de sushi. Te quedas alli, para siempre, pero forrao.</respuesta1>
+<respuesta2>" A tun tun tun tun, se puede el atun" exclamas. De pronto los tentaculos te sueltan y te el esbirro te dice " adelante adelante" ensenyandote la puerta del norte</respuesta2>
+<respuesta3>El gran HP Lovecraft se aparece junto a ti. El discipulo se queda todo prendado por su belleza y decide abrir un sexshop para vender los tentuclos sobrantes. Te deja pasar.</respuesta3>
+<respuesta4>El silencio afecta mucho al discipulo de cthun que no puede seguir dando +1 a su señor. Eso lo deja sin poder y el esbirro es sacrificado. Pasas</respuesta4>
+</sala>
+<sala id="6">
+<nombre>Aventurero perdido</nombre>
+<Pregunta>Encuentras a un hombre con un mapa. Te pregunta si va bien para ir a la catedral. </Pregunta>
+<eleccion1>Le indicas que la catedral es "palla"</eleccion1>
+<eleccion2 correcto="true">Le dices que se ha equivocado de cuento</eleccion2>
+<eleccion3 >le retas a un duelo</eleccion3>
+<eleccion4 correcto="true">i dont speeck dutch</eleccion4>
+<respuesta1>Todo tieso, el aventurero  va pa la derecha y cae en un foso.</respuesta1>
+<respuesta2>el aventurero al no entender va hacia el norte, donde divisas un cuarto rojo</respuesta2>
+<respuesta3>El aventurero no entiende nada, pero al ver tus intenciones saca un revolver y te dispara. "hasta la vista, babie"</respuesta3>
+<respuesta4>El tio te mira como diciendo que el es de mostoles que de dutch nanai pero tu no le haces caso. Pasa tranquilo</respuesta4>
+</sala>
+<sala id="7">
+<nombre>La amante</nombre>
+<Pregunta>Se presenta una joven muchacha con poca ropa y cara de chica mala. Te ofrece su mano sin lidiar palabra. Suena Barry White de fondo aunque huele un poco raro... ¿que haces?</Pregunta>
+<eleccion1>Le coges de la mano y te la llevas a la cama.</eleccion1>
+<eleccion2 correcto="true">Te agachas y le besas la mano</eleccion2>
+<eleccion3 correcto="true">No la tocas y decides escapar por la puerta</eleccion3>
+<eleccion4 correcto="true">Coges y le golpeas con una vasija que hay alli</eleccion4>
+<respuesta1>Tus 5 masteres en ver porno no te sirven de mucho en la vida real. Al no tener experiencia en el sexo la mujer se enfada y te debora con su vagina dentada. Al menos no has muerto virgen</respuesta1>
+<respuesta2>La caballerosidad que has demostrado con la chica hace que ella te suplique que te quedes con ella. Tu rechazas esa invitación por tu noble proposito. Pero le dices que te espere a la entrada</respuesta2>
+<respuesta3>Ella cree que eres Gay y te deja partir</respuesta3>
+<respuesta4>Al golpearla sale un polvo amarillo de la vasija que devuelve la chica a su estado inicial. Ahora es poco agraciada pero muy amablemente te indica el camino hacia el norte</respuesta4>
+</sala>
+<sala id="8">
+<nombre>El cofre</nombre>
+<Pregunta>En la habitacion hay un foco que apunta a un cofre</Pregunta>
+<eleccion1 correcto="true">No lo tocas</eleccion1>
+<eleccion2 correcto="true"> Le pegas una patada</eleccion2>
+<eleccion3>Lo abres</eleccion3>
+<eleccion4 correcto="true">Hablas como si alguien estubiera aqui</eleccion4>
+<respuesta1>Pasas corriendo por al lado. Demasiado Dark Souls.. putos mimics</respuesta1>
+<respuesta2>te haces daño en el dedo gordo del pie. El cofre se rie y tu con el. Te das cuenta que un cofre no rie y te vas pitando</respuesta2>
+<respuesta3>al abrir te das cuenta que es un mimic. Mueres en su interior deborado. </respuesta3>
+<respuesta4>te pones a contar tu vida, como si alguien te escuchara, el cofre bosteza y te das cuenta que es un mimic. Haceis terapia juntos y te deja seguir.</respuesta4>
+</sala>
+<sala id="9">
+<nombre>La peli Infernal</nombre>
+<Pregunta>"En esta sala huele a palomitas" dices al entrar. En efecto es un cine pero al sentarte unas cadenas  te atan y como si estuvieses en la naranja mecanica te obligan a mirar. Tienes 4 peliculas para elegir:</Pregunta>
+<eleccion1>Atack of the killer Tomatoes</eleccion1>
+<eleccion2 correcto="true">La princesa prometida</eleccion2>
+<eleccion3>Kung Fury</eleccion3>
+<eleccion4 correcto="true">Si no soy Curro Romero, que hago con este Trabuco</eleccion4>
+<respuesta1>La Pelicula ganadora de 25 Oscars, es demasiado para tu cerebro de tomate frito. </respuesta1>
+<respuesta2>La pelicula te da una gran fuerza para seguir... rompes con fuerza tus cadenas y te vas diciendo " soy Iñigo Montoya"</respuesta2>
+<respuesta3>Tan Mal gusto has tenido que la máquina no puede dejarte ir por que si... Igualmente has perecido al intentar entender si habia vikingas buenorras con metralletas en un T-rex en el pasado.</respuesta3>
+<respuesta4>El Argumento tan profundo te llega a las entrañas y desde el interior  emanas una fuerza que friccionando con las cadenas consiguen liberarte.</respuesta4>
+</sala>
+<sala id="10">
+<nombre>Colegialas del inframundo</nombre>
+<Pregunta>Y llego el final soñado para cualquier aventurero que se precie. Esta esto lleno de universitarias vestidas de colegiala y te dicen que te esperan... a ti</Pregunta>
+<eleccion1 correcto="true">Llego mi momento... ¡A ligar se ha dicho!</eleccion1>
+<eleccion2>Encantadoras señoritas, ¡vamos a bailar!</eleccion2>
+<eleccion3>¡Eso de ahi es una GÜIJA!</eleccion3>
+<eleccion4 correcto="true">¡Virginidad te elijo a ti !</eleccion4>
+<respuesta1>Lo intentas de muchas maneras pero resulta que tu intelecto bajo no les aporta nada... no te quieren ni para su sacrificio.. te hechan de la sala</respuesta1>
+<respuesta2>Empiezas con Melanie pero Sofia no puede aguantar y se entromete, tambien lo hace Julia y Cati al final te ves rodeado y atado. Te usan en un ritual satanicosexual... GG WP</respuesta2>
+<respuesta3>Corres te escudas pero es demasiado tarde. Te pillan y te dan una muerte por kiki. Algo es algo.</respuesta3>
+<respuesta4>En ese momento tus granos explotan y supuran pus que al tocar con las colegialas les quema hasta dejarlas pequeñitas. Las supervivientes piden piedad...</respuesta4>
+</sala>
+<sala id="11">
+<nombre>Adelio el yoyas</nombre>
+<Pregunta>No puede ser. El gran Guardian Adelio el Yoyas aparece ante ti. Prepare to die</Pregunta>
+<eleccion1>Luchas a muerte contra esa criaturita del señor</eleccion1>
+<eleccion2 correcto="true">Te colocas la peluca rosa y saludas con un muy buenas Hearthstoneros</eleccion2>
+<eleccion3 correcto="true">Haces 21 Canticos Menos Trece</eleccion3>
+<eleccion4>Le dices que es guapisimo</eleccion4>
+<respuesta1>Por muchos DABS y flechipollas que le tires no se inmuta... has muerto</respuesta1>
+<respuesta2>Invocas a N Zoth, Cthun, Yoggy y Y'sark en la misma habitacion. Se pelean entre ellos. Adelio se desconecta, la victoria es tuya</respuesta2>
+<respuesta3>El gran creador de Adelio, Menos Trece baja para asegurarse que su criatura te deja pasar. "Gracias calvito"</respuesta3>
+<respuesta4>Aun Siendo Vegeta tus fuerzas de niño rata no te ayudan demasido. Mueres de manera grotesca, dolorosa y solitaria... Putos niños rata</respuesta4>
+</sala>
+<sala id="12">
+<nombre>La araña de la tela cuadrada</nombre>
+<Pregunta>En medio de la habitación hay una Araña gigante que ha entretejido una mesa cuadrada. Te pregunta sobre el sentido de la vida.</Pregunta>
+<eleccion1 correcto="true">¡Pijus Magnificus lo sabra !</eleccion1>
+<eleccion2 correcto="true">Spam spam spam</eleccion2>
+<eleccion3 correcto="true">Nobody expects the spanish inquisition</eleccion3>
+<eleccion4 correcto="true">La respuesta esta en la filosofia de Socrates</eleccion4>
+<respuesta1>Al decir su nombre la araña rie. Tu no sabes porque pero al final recuerdas que su mujer Incontinencia Urinaria te debe unos cubatas. Pasas</respuesta1>
+<respuesta2>La araña que tambien odia el Spam y tu os juntais para programar un ad block. I DONT LIKE SPAM</respuesta2>
+<respuesta3>En ese momento aparecen 3 señores vestidos de rojo, pillan a la Araña y la condenan a la hoguera. Despues te invitan a la barbacoa de puta madre.</respuesta3>
+<respuesta4>Arquimedes tiene el balon, se lo da  Socrates, este a heraclito, que finalmente se la pasa a Socrates y marca gol. La Araña se va 3 dias de fiesta por ser campeona del mundo.</respuesta4>
+</sala>
+<sala id="13">
+<nombre>El gran dragoncito</nombre>
+<Pregunta>Una bella Dama te espera sentada en un trono hecho de espadas. Tiene 3 dragones pequeñitos y te pregunta si quieres elegir a uno</Pregunta>
+<eleccion1>Rojo</eleccion1>
+<eleccion2>Azul</eleccion2>
+<eleccion3>Negro</eleccion3>
+<eleccion4 correcto="true">No, gracias</eleccion4>
+<respuesta1>Smaug es un fiero dragon que odia los enanos y le encantan los tesoros. Para el tu eres un enano ... y su cena</respuesta1>
+<respuesta2>Alduin consume tu alma y te grita hasta que te despedaza...</respuesta2>
+<respuesta3>Jörmundgander no es un dragon pero hasta Thor le teme... gracias hijos del trueno.</respuesta3>
+<respuesta4>La reina esta agradecida por que no le toques los dragones.Te deja ir y te da un helado... Khalessi para todos.</respuesta4>
+</sala>
+<sala id="14">
+<nombre>Esqueletos danzantes</nombre>
+<Pregunta>Esta habitacion hiede a muerte dices ... de pronto los huesos empiezan a moverse y se juntan formando cuerpos que forman en fila y ...  te preguntan que les indiques una cancion para ellos...</Pregunta>
+<eleccion1 correcto="true">Danza Macabra - Camille de Saint Saenz</eleccion1>
+<eleccion2>Baby - Justin Bieber</eleccion2>
+<eleccion3>Shaky shaky- Daddy Yankee</eleccion3>
+<eleccion4 correcto="true">La vida es una Lenteja - Unaesta</eleccion4>
+<respuesta1>De golpe los esqueletos empiezan a danzar. Es tan bonito y espeluznante que te engancha. Al terminar te dejan pasar</respuesta1>
+<respuesta2>Los esqueletos te cojen y te quitan la piel a tiras, despues van mordiendote los musculos a poco a poco hasta que te quedas como ellos.</respuesta2>
+<respuesta3>Esto del reggaeton los esqueletos no lo conocian. No te dejan passar hasta que les enseñes a bailar eso ... al menos tienes para 400 años.</respuesta3>
+<respuesta4>O la tomas o la dejas ! temazoooo ! los esqueletos te toman como su rey. Pasas con todos los honores!</respuesta4>
+</sala>
+<sala id="15">
+<nombre>El tesoro</nombre>
+<Pregunta>Al fin la sala del tesoro! hay un cartel que te indica coge solo una cosa. ¿Que haces?</Pregunta>
+<eleccion1>La Trifuerza</eleccion1>
+<eleccion2 correcto="true">Una Masterball</eleccion2>
+<eleccion3>La varita de sauco</eleccion3>
+<eleccion4 correcto="true">un anillo raro</eleccion4>
+<respuesta1>Eres el guerrero mas poderoso de Hyrule, suerte que no estamos alli. Mientras sales un trol te coge y te usa pasa pintar la pared</respuesta1>
+<respuesta2>Al salir te encuentras con un trol, pero le tiras la masterball y lo pillas. Gotta cath them ALL!</respuesta2>
+<respuesta3>Al salir un troll te ataca, vas a usar la varita pero recuerdas que no sabes ningun conjuro ... has muerto.</respuesta3>
+<respuesta4>Mi tesoro... un trol te ataca y te pones el anillo.. pasas por su lado sin que te vea... pero tu le has visto el ojo de Sauron</respuesta4>
+</sala>
+<sala id="16">
+<nombre>Final</nombre>
+<Pregunta>Despues de todo sales de la mazmorra.. ¿Y ahora que?</Pregunta>
+<eleccion1>A comer Ganchitos</eleccion1>
+<eleccion2>A la siguiente aventura</eleccion2>
+<eleccion3>quiero descansar un rato</eleccion3>
+<eleccion4>Voy a buscar una buena moza</eleccion4>
+<respuesta1>Engordas... mucho... te conviertes en un boss de Darksouls</respuesta1>
+<respuesta2>Te vas a poner to Mazao! Lastima que la siguiente aventura sea nivel dificil...</respuesta2>
+<respuesta3>Y dormiras hasta que alguien te de un beso de amor verdadero ... suerte</respuesta3>
+<respuesta4>Moza moza.. Mozas no encuentras demasiadas con el tesoro que te has llevado... tendras que arreglartelas con un 5 vs 1</respuesta4>
+</sala>
+
+
+</Dungeons>
